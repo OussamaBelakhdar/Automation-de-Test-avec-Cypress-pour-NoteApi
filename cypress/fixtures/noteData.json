@@ -1,0 +1,13 @@
+
+[
+    {
+    "title": "Originalité, travail sur l'image",
+    "description": "Trouver quelque chose d'original (mais pas trop dangereux) à faire ce soir pour pouvoir la raconter demain au daily",
+    "category": "Personal"
+  },
+    {
+    "title": "Finir la quête 3",
+    "description": "Ajouter encore quelques assertions, utiliser un jeu de données sous forme de json et utiliser une cy.command",
+    "category": "Work"
+  }
+]
