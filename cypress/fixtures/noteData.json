@@ -1,13 +1,13 @@
 
 [
     {
-    "title": "Originalité, travail sur l'image",
-    "description": "Trouver quelque chose d'original (mais pas trop dangereux) à faire ce soir pour pouvoir la raconter demain au daily",
+    "title": "Discovering Uniqueness for Tomorrow",
+    "description": "Discover something unique and noteworthy to do tonight, ensuring it's not overly risky, so you can captivate your colleagues with tomorrow's daily update.",
     "category": "Personal"
   },
     {
-    "title": "Finir la quête 3",
-    "description": "Ajouter encore quelques assertions, utiliser un jeu de données sous forme de json et utiliser une cy.command",
+    "title": "Innovating Workflow Enhancements",
+    "description": " Brainstorm innovative ideas tonight to enhance our workflow, aiming to share a game-changing proposal during tomorrow's work discussions",
     "category": "Work"
   }
 ]
